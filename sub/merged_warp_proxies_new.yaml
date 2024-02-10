@@ -216,7 +216,7 @@ proxies:
   port: 27103
   password: f4b81edb-73a5-41fa-9086-6f446061815d
   cipher: chacha20-ietf-poly1305
-- name: 油管绵阿羊_United States_vmess_21
+- name: 油管绵阿羊_None_vmess_21
   type: vmess
   server: www.darkroom.lol
   port: 8080
@@ -378,7 +378,7 @@ proxies:
   port: 12345
   password: dongtaiwang.com
   cipher: chacha20-ietf-poly1305
-- name: 油管绵阿羊_United States_vmess_41
+- name: 油管绵阿羊_None_vmess_41
   type: vmess
   server: www.darkroom.lol
   port: 8080
@@ -2300,7 +2300,7 @@ proxy-groups:
   - 油管绵阿羊_China_ss_18
   - 油管绵阿羊_United Kingdom_ss_19
   - 油管绵阿羊_China_ss_110
-  - 油管绵阿羊_United States_vmess_21
+  - 油管绵阿羊_None_vmess_21
   - 油管绵阿羊_China_vmess_22
   - 油管绵阿羊_China_ss_23
   - 油管绵阿羊_None_vmess_24
@@ -2318,7 +2318,7 @@ proxy-groups:
   - 油管绵阿羊_United States_ss_37
   - 油管绵阿羊_United States_ss_38
   - 油管绵阿羊_Taiwan_ss_39
-  - 油管绵阿羊_United States_vmess_41
+  - 油管绵阿羊_None_vmess_41
   - 油管绵阿羊_China_vmess_42
   - 油管绵阿羊_China_ss_43
   - 油管绵阿羊_None_vmess_44
@@ -2500,7 +2500,7 @@ proxy-groups:
   - 油管绵阿羊_China_ss_18
   - 油管绵阿羊_United Kingdom_ss_19
   - 油管绵阿羊_China_ss_110
-  - 油管绵阿羊_United States_vmess_21
+  - 油管绵阿羊_None_vmess_21
   - 油管绵阿羊_China_vmess_22
   - 油管绵阿羊_China_ss_23
   - 油管绵阿羊_None_vmess_24
@@ -2518,7 +2518,7 @@ proxy-groups:
   - 油管绵阿羊_United States_ss_37
   - 油管绵阿羊_United States_ss_38
   - 油管绵阿羊_Taiwan_ss_39
-  - 油管绵阿羊_United States_vmess_41
+  - 油管绵阿羊_None_vmess_41
   - 油管绵阿羊_China_vmess_42
   - 油管绵阿羊_China_ss_43
   - 油管绵阿羊_None_vmess_44
@@ -2700,7 +2700,7 @@ proxy-groups:
   - 油管绵阿羊_China_ss_18
   - 油管绵阿羊_United Kingdom_ss_19
   - 油管绵阿羊_China_ss_110
-  - 油管绵阿羊_United States_vmess_21
+  - 油管绵阿羊_None_vmess_21
   - 油管绵阿羊_China_vmess_22
   - 油管绵阿羊_China_ss_23
   - 油管绵阿羊_None_vmess_24
@@ -2718,7 +2718,7 @@ proxy-groups:
   - 油管绵阿羊_United States_ss_37
   - 油管绵阿羊_United States_ss_38
   - 油管绵阿羊_Taiwan_ss_39
-  - 油管绵阿羊_United States_vmess_41
+  - 油管绵阿羊_None_vmess_41
   - 油管绵阿羊_China_vmess_42
   - 油管绵阿羊_China_ss_43
   - 油管绵阿羊_None_vmess_44
