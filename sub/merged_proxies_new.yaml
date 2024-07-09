@@ -40,9 +40,9 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip2.1457230.xyz
-- name: 油管绵阿羊_None_vmess_02
+- name: 油管绵阿羊_France_vmess_02
   type: vmess
-  server: 104.26.0.56
+  server: 51.159.34.216
   port: 2086
   uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
   alterId: 0
@@ -1783,7 +1783,7 @@ proxy-groups:
   - 自动选择
   - DIRECT
   - 油管绵阿羊_None_vmess_01
-  - 油管绵阿羊_None_vmess_02
+  - 油管绵阿羊_France_vmess_02
   - 油管绵阿羊_Canada_vmess_03
   - 油管绵阿羊_None_vmess_04
   - 油管绵阿羊_United States_vmess_05
@@ -1909,7 +1909,7 @@ proxy-groups:
   tolerance: 50
   proxies:
   - 油管绵阿羊_None_vmess_01
-  - 油管绵阿羊_None_vmess_02
+  - 油管绵阿羊_France_vmess_02
   - 油管绵阿羊_Canada_vmess_03
   - 油管绵阿羊_None_vmess_04
   - 油管绵阿羊_United States_vmess_05
